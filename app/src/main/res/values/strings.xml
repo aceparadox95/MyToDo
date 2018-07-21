@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">MyToDo</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="status_array">
+        <item>Done</item>
+        <item>Pending</item>
+        <item>Urgent</item>
+        <item>Almost Done</item>
+        <item>Queue</item>
+        <item>To Be Confirmed</item>
+        <item>Side Work</item>
+        <item>Overdue</item>
+        <item>Ongoing</item>
+        <item>Important</item>
+        <item>Settle</item>
+
+    </string-array>
+</resources>
